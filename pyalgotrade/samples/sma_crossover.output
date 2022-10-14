@@ -1,0 +1,3 @@
+2017-07-24 22:56:58,112 quandl [INFO] Downloading AAPL 2011 to ./WIKI-AAPL-2011-quandl.csv
+2017-07-24 22:57:02,364 quandl [INFO] Downloading AAPL 2012 to ./WIKI-AAPL-2012-quandl.csv
+Sharpe ratio: 1.12
